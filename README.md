@@ -3,9 +3,9 @@ restls 配置实例
 
 服务端
 --------
-安装PM2（类似systemd 24h守护程序）
+1.安装PM2（类似systemd 24h守护程序）
 
-https://github.com/3andne/restls/releases
+2.https://github.com/3andne/restls/releases
 ```
 wget https://github.com/3andne/restls/releases/download/v0.1.0-pre5/restls-x86_64-unknown-linux-musl
 
