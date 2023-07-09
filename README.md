@@ -24,6 +24,6 @@ pm2 save
 --------
 然后用1.[clash-meta](https://github.com/3andne/Clash.Meta#restls)  2.[restls-client-go](https://github.com/3andne/restls-client-go)
 
-如果有restls-client-go可执行程序，可以类似naive用法：1.windows cmd 开一个scoks://127.0.0.1:12345
-                                                  2.android termux 开一个scoks://127.0.0.1:12345
-                                                  3.ios iSH 开一个scoks://127.0.0.1:12345
+如果有restls-client-go可执行程序，可以类似naive用法：1.windows cmd 开一个scoks://127.0.0.1:12345  
+                                                  2.android termux 开一个scoks://127.0.0.1:12345  
+                                                  3.ios iSH 开一个scoks://127.0.0.1:12345  
