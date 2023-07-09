@@ -17,4 +17,6 @@ pm2 start /绝对路径/restls -n res -- -s "lovelive-as-global.com" -l "127.0.0
 
 //127.0.0.1:20000（在singbox开的shadowsocks地址） lovelive-as-global.com（握手地址）
 ```
+客户端
+--------
 然后用1.clash-meta  2.或者[restls-client-go](https://github.com/3andne/restls-client-go)
