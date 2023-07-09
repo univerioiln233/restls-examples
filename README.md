@@ -13,7 +13,8 @@ mv restls-x86_64-unknown-linux-musl restls
 
 chmod +x restls
 
-//127.0.0.1:20000（在singbox开的shadowsocks地址） lovelive-as-global.com（握手地址）
 pm2 start /绝对路径/restls -n res -- -s "lovelive-as-global.com" -l "127.0.0.1:10000" -p 密码 -f "127.0.0.1:20000" --script "200?100,400?100,1200?200<1,1100~300,1000~100<1,2500~500,1300~50,1300~50,100~1200"
+
+//127.0.0.1:20000（在singbox开的shadowsocks地址） lovelive-as-global.com（握手地址）
 ```
 然后用1.clash-meta  2.或者[restls-client-go](https://github.com/3andne/restls-client-go)
