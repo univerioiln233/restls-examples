@@ -28,3 +28,14 @@ pm2 save
 1.windows cmd 开一个scoks://127.0.0.1:12345  
 2.android termux 开一个scoks://127.0.0.1:12345  
 3.ios iSH 开一个scoks://127.0.0.1:12345  
+之后，使用clash、singbox、clashMeta、v2ray、nekoray、nekobox随你便
+such as，clash中
+```
+  - name: naive
+    type: socks5 
+    server: 127.0.10.10
+    port: 222222
+    udp: false
+    username: 1234554321
+    password: 778899
+```
