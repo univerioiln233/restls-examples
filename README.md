@@ -19,4 +19,4 @@ pm2 start /绝对路径/restls -n res -- -s "lovelive-as-global.com" -l "127.0.0
 ```
 客户端
 --------
-然后用1.clash-meta  2.或者[restls-client-go](https://github.com/3andne/restls-client-go)
+然后用1.clash-meta  2.[restls-client-go](https://github.com/3andne/restls-client-go)
